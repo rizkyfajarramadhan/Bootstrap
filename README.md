@@ -22,11 +22,11 @@ Slider
 ![alt text](https://github.com/rizkyfajarramadhan/Bootstrap/blob/master/bootstrap-slider.png)
 
 Modal
-1[alt text](https://github.com/rizkyfajarramadhan/Bootstrap/blob/master/modal-large.png)
+![alt text](https://github.com/rizkyfajarramadhan/Bootstrap/blob/master/modal-large.png)
 
-1[alt text](https://github.com/rizkyfajarramadhan/Bootstrap/blob/master/modal-medium.png)
+![alt text](https://github.com/rizkyfajarramadhan/Bootstrap/blob/master/modal-medium.png)
 
-1[alt text](https://github.com/rizkyfajarramadhan/Bootstrap/blob/master/modal-small.png)
+![alt text](https://github.com/rizkyfajarramadhan/Bootstrap/blob/master/modal-small.png)
 
 Table
-1[alt text](https://github.com/rizkyfajarramadhan/Bootstrap/blob/master/bootstrap-table.png)
+![alt text](https://github.com/rizkyfajarramadhan/Bootstrap/blob/master/bootstrap-table.png)
