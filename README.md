@@ -19,7 +19,7 @@ Navigation Bar
 ![alt text](https://github.com/rizkyfajarramadhan/Bootstrap/blob/master/navbar-responsive.png)
 
 Slider
-![alt text](https://github.com/rizkyfajarramadhan/Bootstrap/blob/master/bootstrap-slider.html)
+![alt text](https://github.com/rizkyfajarramadhan/Bootstrap/blob/master/bootstrap-slider.png)
 
 Modal
 1[alt text](https://github.com/rizkyfajarramadhan/Bootstrap/blob/master/modal-large.png)
