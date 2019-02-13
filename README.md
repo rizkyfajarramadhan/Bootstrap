@@ -14,7 +14,7 @@ Alert
 Card
 ![alt text](https://github.com/rizkyfajarramadhan/Bootstrap/blob/master/bootstrap-card.png)
 
-Navigation Bae
+Navigation Bar
 ![alt text](https://github.com/rizkyfajarramadhan/Bootstrap/blob/master/navigation-bar.png)
 ![alt text](https://github.com/rizkyfajarramadhan/Bootstrap/blob/master/navbar-responsive.png)
 
